@@ -1,0 +1,12 @@
+[
+  {"id": "T1046", "name": "Network Service Scanning", "tactic": "Reconnaissance"},
+  {"id": "T1590", "name": "Gather Victim Network Information", "tactic": "Reconnaissance"},
+  {"id": "T1592", "name": "Gather Victim Host Information", "tactic": "Reconnaissance"},
+  {"id": "T1595", "name": "Active Scanning", "tactic": "Reconnaissance"},
+  {"id": "T1021.004", "name": "Remote Services: SSH", "tactic": "Lateral Movement"},
+  {"id": "T1110", "name": "Brute Force", "tactic": "Credential Access"},
+  {"id": "T1059", "name": "Command and Scripting Interpreter", "tactic": "Execution"},
+  {"id": "T1190", "name": "Exploit Public-Facing Application", "tactic": "Initial Access"},
+  {"id": "T1083", "name": "File and Directory Discovery", "tactic": "Discovery"},
+  {"id": "T1056", "name": "Input Capture", "tactic": "Collection"}
+]
